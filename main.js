@@ -1,5 +1,5 @@
-let sumNum1 = 2;
-let sumNum2 = 4;
+let sumNum1 = 5;
+let sumNum2 = 7;
 let totalSum = sumNum1 + sumNum2;
 
-document.write('The sum of ' + sumNum1 + ' and '  +sumNum2   + ' equals ' + totalSum);
+document.write('Welcome to my calculator <br> The sum of ' + sumNum1 + ' and ' + sumNum2   + ' is : ' + totalSum);
